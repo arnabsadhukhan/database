@@ -1,176 +1,153 @@
 {
-  projects : [
+  "projects": [
     {
-      title:
-        "Web Application Named CodeSnip Using React & Redux and Deployed Using Firebase",
-      description:
-        "This is a Web application used to keep all frequently used Code Snippets in one place and this application has an online editor to edit codes and we can group them according to our choice",
-      button_title: "Open Website",
-      button_url: "https://codesnip4.web.app/",
-      image_url: "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
+      "title": "Web Application Named CodeSnip Using React & Redux and Deployed Using Firebase",
+      "description": "This is a Web application used to keep all frequently used Code Snippets in one place and this application has an online editor to edit codes and we can group them according to our choice",
+      "button_title": "Open Website",
+      "button_url": "https://codesnip4.web.app/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
     },
     {
-      title:
-        "Covid 19 Tracker Dashboard Using React & Redux and Deployed Using Firebase",
-      description:
-        "This is a Web application used to track covid 19 cases of individual states in India",
-      button_title: "Open Website",
-      button_url: "https://covid-dashboard-d5b1c.web.app/",
-      image_url: "React.png"
+      "title": "Covid 19 Tracker Dashboard Using React & Redux and Deployed Using Firebase",
+      "description": "This is a Web application used to track covid 19 cases of individual states in India",
+      "button_title": "Open Website",
+      "button_url": "https://covid-dashboard-d5b1c.web.app/",
+      "image_url": "React.png"
     },
     {
-      title:
-        "GOOGLE 2.0 Search engine Using React & Redux and Deployed Using Firebase",
-      description: "This is a Web application has new design for google search",
-      button_title: "Open Website",
-      button_url: "https://ui-f634b.web.app/",
-      image_url: "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg"
+      "title": "GOOGLE 2.0 Search engine Using React & Redux and Deployed Using Firebase",
+      "description": "This is a Web application has new design for google search",
+      "button_title": "Open Website",
+      "button_url": "https://ui-f634b.web.app/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg"
     },
     {
-      title: "NEWS App using Next.js and Tailwind.css Deployed Using Vercel",
-      description:
-        "This is a News application build with NEXT.js and Tailwind.css",
-      button_title: "Open Website",
-      button_url: "https://news-app-tailwind-next.vercel.app/",
-      image_url: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"
+      "title": "NEWS App using Next.js and Tailwind.css Deployed Using Vercel",
+      "description": "This is a News application build with NEXT.js and Tailwind.css",
+      "button_title": "Open Website",
+      "button_url": "https://news-app-tailwind-next.vercel.app/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"
     },
     {
-      title:
-        "Online Data Visualization and Classification Web Application using Streamlit and deployed on Heroku",
-      description:
-        "This is a web application to visualize data, preprocess and train any classifier online and user can download the trained model for future application",
-      button_title: "Open Website",
-      button_url: "https://data-classifier-online.herokuapp.com/",
-      image_url: "ML.png"
+      "title": "Online Data Visualization and Classification Web Application using Streamlit and deployed on Heroku",
+      "description": "This is a web application to visualize data, preprocess and train any classifier online and user can download the trained model for future application",
+      "button_title": "Open Website",
+      "button_url": "https://data-classifier-online.herokuapp.com/",
+      "image_url": "ML.png"
     },
     {
-      title: "Face Key-points Detection using ConvNets",
-      description:
-        "This is a CNN model which predicts 5 key points from a face image - two eyes, one nose, and two points for mouth",
-      button_title: "Open Github",
-      button_url: "https://github.com/arnabsadhukhan/Face-Keypoint-Detection.git",
-      image_url: "https://visagetechnologies.com/app/uploads/2023/07/Age-estimation_FaceAnalysis_Visage-Technologies.webp"
+      "title": "Face Key-points Detection using ConvNets",
+      "description": "This is a CNN model which predicts 5 key points from a face image - two eyes, one nose, and two points for mouth",
+      "button_title": "Open Github",
+      "button_url": "https://github.com/arnabsadhukhan/Face-Keypoint-Detection.git",
+      "image_url": "https://visagetechnologies.com/app/uploads/2023/07/Age-estimation_FaceAnalysis_Visage-Technologies.webp"
     },
     {
-      title: "Age Detection using ConvNets",
-      description: "This is a CNN model which predicts the age from a face image",
-      button_title: "Open Github",
-      button_url: "https://github.com/arnabsadhukhan/Age-detection-using-CNN.git",
-      image_url: "https://visagetechnologies.com/app/uploads/2023/07/Age-estimation-copy-2.webp"
+      "title": "Age Detection using ConvNets",
+      "description": "This is a CNN model which predicts the age from a face image",
+      "button_title": "Open Github",
+      "button_url": "https://github.com/arnabsadhukhan/Age-detection-using-CNN.git",
+      "image_url": "https://visagetechnologies.com/app/uploads/2023/07/Age-estimation-copy-2.webp"
     },
     {
-      title: "Fast Face Detection model using Yolo tiny v3 model",
-      description:
-        "A model which trained to detect multiple faces from an image. This model capable of detects faces from any angle",
-      button_title: "Open Github",
-      button_url:
-        "https://github.com/arnabsadhukhan/custom-yolov3-tiny-face-detection.git",
-      image_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyVzK8Cr9ivORa5C-nzDzCU4MYuIwp8NL-yg&s"
+      "title": "Fast Face Detection model using Yolo tiny v3 model",
+      "description": "A model which trained to detect multiple faces from an image. This model capable of detects faces from any angle",
+      "button_title": "Open Github",
+      "button_url": "https://github.com/arnabsadhukhan/custom-yolov3-tiny-face-detection.git",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyVzK8Cr9ivORa5C-nzDzCU4MYuIwp8NL-yg&s"
     },
     {
-      title: "Trained NER POS Tagger model",
-      description:
-        "A trained LSTM model that can recognize named entity and can predict the part of speech of the text.",
-      button_title: "Open Github",
-      button_url:
-        "https://github.com/arnabsadhukhan/Trained-NER-POS-Tagger-model.git",
-      image_url: "ML.png"
+      "title": "Trained NER POS Tagger model",
+      "description": "A trained LSTM model that can recognize named entity and can predict the part of speech of the text.",
+      "button_title": "Open Github",
+      "button_url": "https://github.com/arnabsadhukhan/Trained-NER-POS-Tagger-model.git",
+      "image_url": "ML.png"
     },
     {
-      title: "Generate Hand Writing using Autoencoders",
-      description:
-        "Generates a person’s handwriting from fewwritings from that person",
-      button_title: "Open Github",
-      button_url:
-        "https://github.com/arnabsadhukhan/GENERATE_HANDWRITING_USING_NEURAL_NETWORKS.git",
-      image_url: "https://www.myscript.com/hero-artwork@2x.png"
+      "title": "Generate Hand Writing using Autoencoders",
+      "description": "Generates a person’s handwriting from fewwritings from that person",
+      "button_title": "Open Github",
+      "button_url": "https://github.com/arnabsadhukhan/GENERATE_HANDWRITING_USING_NEURAL_NETWORKS.git",
+      "image_url": "https://www.myscript.com/hero-artwork@2x.png"
     },
     {
-      title:
-        "Word Boundary Detection using Convolution Neural Networks and Decision Tree",
-      description:
-        "Extract the number of words present in a raw audio signal and find out the location of each word boundary",
-      button_title: "Open Github",
-      button_url:
-        "https://github.com/arnabsadhukhan/word-boundary-detection-using-ConvNets.git",
-      image_url: "https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-981-16-4035-3_2/MediaObjects/508880_1_En_2_Fig1_HTML.png"
+      "title": "Word Boundary Detection using Convolution Neural Networks and Decision Tree",
+      "description": "Extract the number of words present in a raw audio signal and find out the location of each word boundary",
+      "button_title": "Open Github",
+      "button_url": "https://github.com/arnabsadhukhan/word-boundary-detection-using-ConvNets.git",
+      "image_url": "https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-981-16-4035-3_2/MediaObjects/508880_1_En_2_Fig1_HTML.png"
     },
     {
-      title: "Car Number Plate Detection using YOLO and Tesseract OCR ",
-      description: "Real time car number plate detection to create authentication system",
-      button_title: "Open Github",
-      button_url:
-        "https://github.com/arnabsadhukhan/Number-Plate-Detection-using-YOLO-and-Tesseract-OCR.git",
-      image_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgx4YrXoQ9-RsHPEg6kpxngT4tBrcEXB1NHw&s"
+      "title": "Car Number Plate Detection using YOLO and Tesseract OCR ",
+      "description": "Real time car number plate detection to create authentication system",
+      "button_title": "Open Github",
+      "button_url": "https://github.com/arnabsadhukhan/Number-Plate-Detection-using-YOLO-and-Tesseract-OCR.git",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgx4YrXoQ9-RsHPEg6kpxngT4tBrcEXB1NHw&s"
     },
     {
-      title: "Intelligent Document Finder AI",
-      description:
-        "Intelligent Document Finder tool that can provide easy and intelligent searches among the document files and provide auto tagging, manual tagging support of user documents & it can summarize the documents.",
-      button_title: "Open Github",
-      button_url: "https://github.com/arnabsadhukhan/Doc-finder-AI.git",
-      image_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxd3H7huUT1_mDjFq7ouVYKm9vF3yfRRPHObo9kSkNnCC01-PVJSeYF_dA_H2-Wrg_Fjw&usqp=CAU"
+      "title": "Intelligent Document Finder AI",
+      "description": "Intelligent Document Finder tool that can provide easy and intelligent searches among the document files and provide auto tagging, manual tagging support of user documents & it can summarize the documents.",
+      "button_title": "Open Github",
+      "button_url": "https://github.com/arnabsadhukhan/Doc-finder-AI.git",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxd3H7huUT1_mDjFq7ouVYKm9vF3yfRRPHObo9kSkNnCC01-PVJSeYF_dA_H2-Wrg_Fjw&usqp=CAU"
     }
   ],
-  skills: [
+  "skills": [
     {
-      name: "Python",
-      image: "./icons/python.svg",
+      "name": "Python",
+      "image": "./icons/python.svg"
     },
     {
-      name: "JavaScript",
-      image: "./icons/javascript.svg",
+      "name": "JavaScript",
+      "image": "./icons/javascript.svg"
     },
     {
-      name: "HTML",
-      image: "./icons/html.svg",
+      "name": "HTML",
+      "image": "./icons/html.svg"
     },
     {
-      name: "CSS",
-      image: "./icons/css.svg",
+      "name": "CSS",
+      "image": "./icons/css.svg"
     },
     {
-      name: "Sass",
-      image: "./icons/sass.svg",
+      "name": "Sass",
+      "image": "./icons/sass.svg"
     },
     {
-      name: "SQL",
-      image: "./icons/sql.svg",
-    },
-  
-    {
-      name: "React",
-      image: "./icons/react.svg",
+      "name": "SQL",
+      "image": "./icons/sql.svg"
     },
     {
-      name: "Redux",
-      image: "./icons/redux.svg",
+      "name": "React",
+      "image": "./icons/react.svg"
     },
     {
-      name: "REST API",
-      image: "./icons/api.png",
+      "name": "Redux",
+      "image": "./icons/redux.svg"
     },
     {
-      name: "Tensorflow",
-      image: "./icons/tensorflow.svg",
-    },
-  
-    {
-      name: "Machine Learning",
-      image: "./icons/machine-learning.png",
-    },
-  
-    {
-      name: "Deep Learning",
-      image: "./icons/deep-learning.png",
+      "name": "REST API",
+      "image": "./icons/api.png"
     },
     {
-      name: "Arduino",
-      image: "./icons/arduino.svg",
+      "name": "Tensorflow",
+      "image": "./icons/tensorflow.svg"
     },
     {
-      name: "Raspberry Pi",
-      image: "./icons/raspberry.svg",
+      "name": "Machine Learning",
+      "image": "./icons/machine-learning.png"
+    },
+    {
+      "name": "Deep Learning",
+      "image": "./icons/deep-learning.png"
+    },
+    {
+      "name": "Arduino",
+      "image": "./icons/arduino.svg"
+    },
+    {
+      "name": "Raspberry Pi",
+      "image": "./icons/raspberry.svg"
     }
   ]
 }
