@@ -97,8 +97,7 @@
     },
     {
       title: "Car Number Plate Detection using YOLO and Tesseract OCR ",
-      description:
-        "Real time car number plate detection to create authentication system",
+      description: "Real time car number plate detection to create authentication system",
       button_title: "Open Github",
       button_url:
         "https://github.com/arnabsadhukhan/Number-Plate-Detection-using-YOLO-and-Tesseract-OCR.git",
@@ -112,7 +111,7 @@
       button_url: "https://github.com/arnabsadhukhan/Doc-finder-AI.git",
       image_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxd3H7huUT1_mDjFq7ouVYKm9vF3yfRRPHObo9kSkNnCC01-PVJSeYF_dA_H2-Wrg_Fjw&usqp=CAU"
     }
-  ];
+  ],
   skills: [
     {
       name: "Python",
@@ -172,6 +171,6 @@
     {
       name: "Raspberry Pi",
       image: "./icons/raspberry.svg",
-    },
+    }
   ]
 }
